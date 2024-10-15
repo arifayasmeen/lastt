@@ -26,7 +26,7 @@ function HomeBanner(props) {
               <div className="col">
                 <div className="main_slider_content" data-aos="fade-right">
                   <h6>Spring / Summer Collection 2017</h6>
-                  <h1>Get up to 40% Off New Arrivals</h1>
+                  <h1>New Arrivals</h1>
                   <div className="red_button shop_now_button">
                     <a href="#">shop now</a>
                   </div>
@@ -48,7 +48,7 @@ function HomeBanner(props) {
               <div className="col">
                 <div className="main_slider_content" data-aos="fade-right">
                   <h6>Spring / Summer Collection 2017</h6>
-                  <h1>Get up to 80% Off New Arrivals</h1>
+                  <h1>New Arrivals</h1>
                   <div className="red_button shop_now_button">
                     <a href="#">shop now</a>
                   </div>
@@ -70,7 +70,7 @@ function HomeBanner(props) {
               <div className="col">
                 <div className="main_slider_content" data-aos="fade-right">
                   <h6>Spring / Summer Collection 2017</h6>
-                  <h1>Get up to 60% Off New Arrivals</h1>
+                  <h1>New Arrivals</h1>
                   <div className="red_button shop_now_button">
                     <a href="#">shop now</a>
                   </div>
